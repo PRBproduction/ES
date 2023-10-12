@@ -5,6 +5,12 @@
             "textValue" : "test text value",
             "barSize": "      ",
             "targetValue" : 3000
+        },
+        {
+             "likes": 150,
+            "textValue" : "test text value 2",
+            "barSize": "         ",
+            "targetValue" : 3000   
         }
     ]
 }
